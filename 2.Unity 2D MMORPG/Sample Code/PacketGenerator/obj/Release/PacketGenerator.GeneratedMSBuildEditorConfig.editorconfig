@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PacketGenerator
+build_property.ProjectDir = C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

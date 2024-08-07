@@ -1,0 +1,65 @@
+C:\Rookiss\MMO_Server\PacketGenerator\bin\PacketGenerator.exe
+C:\Rookiss\MMO_Server\PacketGenerator\bin\PacketGenerator.deps.json
+C:\Rookiss\MMO_Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\Rookiss\MMO_Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\Rookiss\MMO_Server\PacketGenerator\bin\PacketGenerator.dll
+C:\Rookiss\MMO_Server\PacketGenerator\bin\PacketGenerator.pdb
+C:\Rookiss\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.csprojAssemblyReference.cache
+C:\Rookiss\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Rookiss\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\Rookiss\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\Rookiss\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\Rookiss\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\Rookiss\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\PacketGenerator.exe
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\PacketGenerator.deps.json
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\PacketGenerator.dll
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\PacketGenerator.pdb
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\Google.Protobuf.dll
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.CopyComplete
+C:\Rookiss\MMO_Game\Server\PacketGenerator\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Rookiss\MMO_Game\Server\PacketGenerator\obj\Debug\PacketGenerator.csprojAssemblyReference.cache
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\PacketGenerator.exe
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\PacketGenerator.deps.json
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\PacketGenerator.dll
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\PacketGenerator.pdb
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\Google.Protobuf.dll
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.AssemblyReference.cache
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.sourcelink.json
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGe.F1D84891.Up2Date
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\Japan_Project\MMO_Server_Last_Zone\Server\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\PacketGenerator.exe
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\PacketGenerator.deps.json
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\PacketGenerator.dll
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\PacketGenerator.pdb
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\Google.Protobuf.dll
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.csproj.AssemblyReference.cache
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.sourcelink.json
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGe.F1D84891.Up2Date
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\GitHub\github\Unity 2D MMORPG\Sample code\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
